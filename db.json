@@ -1,0 +1,29 @@
+[
+  {
+    "drillSetKey": "Sample1",
+    "drillSetInputDate": "2018-10-17T14:50:09.595Z",
+    "recordId": 21255,
+    "mineHoleNumber": 137,
+    "modifiedDateTime": "2018-10-29T14:00:59.806Z",
+    "designElevation": 929.474,
+    "actualGroundElevation": 939.7193,
+    "actualCollarNorthing": 7803198.5,
+    "actualCollarEasting": 669156.6,
+    "actualMastAngle": 0,
+    "actualDrillHeading": 1.26,
+    "averageHoleEnergy": 316,
+    "patternHoleNumber": "4.5x9.0",
+    "drillPattern": "2018-05-06--12-53-58_GW0910",
+    "designDiameter": 228.6,
+    "subDrill": 0,
+    "adjustedSubDrill":  00,
+    "depth": 10.3,
+    "adjustedDepth": 10.3,
+    "explosiveDensity": 0.85,
+    "createdOn": "2018-10-29T14:00:59.806Z",
+    "createdBy": "Mariana",
+    "updatedOn": "2018-10-29T14:00:59.806Z",
+    "updatedBy": "Mariana",
+    "rockDensityId": 2
+  }
+]
