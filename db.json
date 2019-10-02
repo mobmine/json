@@ -1,17 +1,17 @@
 {
   "drilledHoles": [
     {
-        "actualCollarEasting": 669579.5,
-"actualCollarNorthing": 7803220.5,
-"actualDrillHeading": 115.27,
+"actualCollarEasting": 669361.56,
+"actualCollarNorthing": 7803035.00,
+"actualDrillHeading": 151.200,
 "actualGroundElevation": 875.8338,
-"actualMastAngle": 15,
+"actualMastAngle": 20.080,
 "adjustedDepth": 11.06145,
 "adjustedSubDrill": 1.5,
 "averageHoleEnergy": 326.7697,
 "createdBy": "Leonardo Victor Balarini_CONTR",
 "createdOn": "2019-09-23T17:58:21.517+00:00",
-"depth": 11.06145,
+"depth": 13.097,
 "designDiameter": 201,
 "designElevation": 865.163,
 "drillPattern": "2018-11-16--18-20-30_GW0860",
@@ -25,7 +25,7 @@
 "subDrill": 1.5,
 "updatedBy": "Leonardo Victor Balarini_CONTR",
 "updatedOn": "2019-09-25T14:16:43.144Z"
-    },
+},
     {
         "actualCollarEasting": 669612.25,
 "actualCollarNorthing": 7803263,
